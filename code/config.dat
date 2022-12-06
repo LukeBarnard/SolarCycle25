@@ -1,0 +1,7 @@
+data,data
+sunspot_data,data/SN_d_tot_V2.0.csv
+dst_data,data/Dst.dat
+tsi_data,data/nrl2_tsi_P1D.csv
+f10p7_data,data/penticton_radio_flux.csv
+cme_data,data/cdaw_lasco_cme.dat
+figures,figures
